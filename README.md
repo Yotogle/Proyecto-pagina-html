@@ -5,7 +5,7 @@ Elaborar una pagina sencilla con html, es este caso el contenido de la pagina es
 Abrir la pagina
 leer la información
 
-##información del autor
+## Información del autor
 Mi nombre es Joan Toledo, mi usuario en Github es [Yotogle] (https://github.com/Yotogle)
 
 ## licencia
